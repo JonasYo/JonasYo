@@ -5,7 +5,7 @@
 <h3 align="center">Formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Pinhais (FAPI)</h3>
 
 
-Quer saber mais sobre mim? [Dê uma olhada no meu portfólio.](https://jonas-landing-page.netlify.app/)
+Quer saber mais sobre mim? [Dê uma olhada no meu portfólio.](https://lp-portfolio-frontend.vercel.app)
 
 ## &#x1f4c8; GitHub Estatísticas
 
